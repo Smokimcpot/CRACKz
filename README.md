@@ -14,4 +14,5 @@ git clone https://github.com/Smokimcpot/CRACKz.git
 type in Termial 
 
 cd CRACKz
+
 bash CRACKz.sh
