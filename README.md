@@ -11,7 +11,7 @@ DOWNLOAD
 
 git clone https://github.com/Smokimcpot/CRACKz.git
 
-type in Termial 
+Type in Terminal 
 
 cd CRACKz
 
