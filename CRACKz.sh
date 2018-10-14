@@ -25,4 +25,5 @@ echo "Strassen Nr $STNR" 	>> 	info.txt
 echo "Stadt: $STADT" 		>> 	info.txt
 echo "Land: $LAND"  		>> 	info.txt
 echo "Username: $USER" 		>> 	info.txt
+echo "--------------------------------------------" 		>> 	info.txt
 
