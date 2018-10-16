@@ -7,6 +7,14 @@ Mit diesem simpeln tool kann man Informationen von Personen Speichern.
 
 ![screenshot from 2018-10-14 17-54-21](https://user-images.githubusercontent.com/8625880/46920217-735b8d00-cfda-11e8-886d-9c0986252b63.png)
 
+OS
+
+Kali linux
+Parrot OS 
+Ubuntu
+Termux
+
+
 DOWNLOAD
 
 git clone https://github.com/Smokimcpot/CRACKz.git
