@@ -10,8 +10,11 @@ Mit diesem simpeln tool kann man Informationen von Personen Speichern.
 OS
 
 Kali linux
+
 Parrot OS 
+
 Ubuntu
+
 Termux
 
 
